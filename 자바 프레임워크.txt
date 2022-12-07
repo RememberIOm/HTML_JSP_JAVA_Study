@@ -1,0 +1,37 @@
+Linkedlist list = new Linkedlist;
+list.add(new interger(11));
+list.add("11")
+JAVA 컬렉션 프레임워크
+자바의 자료구조
+
+<E>
+Set계열
+Hashset
+해쉬를 이용
+중복허용안함, 인덱스 지맘대로 
+Treeset => Sortedset
+트리를 이용
+중복허용안함, 정렬이 되어있음
+
+List계열
+Arraylist => 배열
+Vector => C++ 벡터
+Linklist => 링크드리스트
+Queue => 
+PriorityQueue
+정렬이 되어있음
+
+<K, V>
+K : 중복이 허락되지 않음
+V : 중복이 허락됨
+Map
+Key, Value
+Treemap
+정렬이 되어나옴
+
+Hashset
+Person{string name, int age}
+add()
+equals(obj)
+iter
+Hashcode()
